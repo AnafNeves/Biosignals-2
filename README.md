@@ -4,6 +4,7 @@ This document is for collaborators. It covers where data lives, what each file/f
 
 ---
 
+
 ## Storage locations
 
 | Location | Purpose |
