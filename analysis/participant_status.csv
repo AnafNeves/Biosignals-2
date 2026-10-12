@@ -3,6 +3,9 @@ participant_id,status,reason,date_added
 002,test,Early pilot; pre-dates the emotion label question,2026-10-12
 003,test,Test session,2026-10-12
 CARMEN,test,Carmen's own test sessions,2026-10-12
+P1234,test, questionnaire test run, 2026-10-12
+234,test, questionnaire test run, 2026-10-12
+1234,test, questionnaire test run, 2026-10-12
 E5510,pilot,,2026-10-12
 E9967,pilot,,2026-10-12
 G2313,pilot,,2026-10-12
