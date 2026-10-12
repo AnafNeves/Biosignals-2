@@ -2,6 +2,7 @@
 
 This document is for collaborators. It covers where data lives, what each file/folder contains, and how the two storage locations relate to each other.
 
+To contribute to this project, `fork` the repository and `clone your fork` to your computer. Save it in a **local** folder, **not** inside **OneDrive**, because OneDrive’s syncing can clash with Git and lose your work.
 ---
 
 ## Storage locations
