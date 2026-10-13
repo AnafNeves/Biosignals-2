@@ -3,13 +3,15 @@ participant_id,status,reason,date_added
 002,test,Early pilot; pre-dates the emotion label question,2026-10-12
 003,test,Test session,2026-10-12
 CARMEN,test,Carmen's own test sessions,2026-10-12
+P1234,test, questionnaire test run, 2026-10-12
+234,test, questionnaire test run, 2026-10-12
+1234,test, questionnaire test run, 2026-10-12
+123,test, questionnaire test run, 2026-10-12
 E5510,pilot,,2026-10-12
 E9967,pilot,,2026-10-12
 G2313,pilot,,2026-10-12
-I4155,pilot,,2026-10-12
+I4155,faulty,participant repositioned their chair outside camera FOV,2026-10-12
 N2026,pilot,,2026-10-12
 P7259,pilot,,2026-10-12
-R2433,pilot,,2026-10-12
-R4755,pilot,,2026-10-12
-S0723,pilot,Session error: inductions only,2026-10-12
+S0723,pifaultylot,Session error: inductions only,2026-10-12
 S0943,pilot,,2026-10-12
